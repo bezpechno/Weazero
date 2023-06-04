@@ -15,7 +15,7 @@ Retrofit <br>
 Kotlin <br>
 
 ### Фото:
-[Main](https://github.com/bezpechno/Weazero/blob/master/image_2023-06-04_23-43-36_iphone12miniblack_portrait.png)
-[Detailed](https://github.com/bezpechno/Weazero/blob/master/image_2023-06-04_23-50-21_iphone12miniblack_portrait.png)
+![Main](https://github.com/bezpechno/Weazero/blob/master/image_2023-06-04_23-43-36_iphone12miniblack_portrait.png)
+![Detailed](https://github.com/bezpechno/Weazero/blob/master/image_2023-06-04_23-50-21_iphone12miniblack_portrait.png)
 
 
